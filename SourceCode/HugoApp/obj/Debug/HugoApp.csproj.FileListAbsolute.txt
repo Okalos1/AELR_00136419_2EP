@@ -1,0 +1,132 @@
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\HugoApp.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.csprojAssemblyReference.cache
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.Properties.Resources.resources
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.csproj.GenerateResource.cache
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\Npgsql.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Buffers.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Memory.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Text.Json.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\Npgsql.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\Npgsql.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Buffers.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Memory.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Text.Json.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.csproj.CopyComplete
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.frmInicioSesion.resources
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.frmCambiarContra.resources
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.frmAdmin.resources
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\obj\Debug\HugoApp.frmUsuario.resources
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Nery Lopez\RYS2019\POO\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\HugoApp.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\Npgsql.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Buffers.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Memory.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Text.Json.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\Npgsql.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\Npgsql.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Buffers.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Memory.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Text.Json.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.csprojAssemblyReference.cache
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.frmAdmin.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.frmCambiarContra.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.frmInicioSesion.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.frmUsuario.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.Properties.Resources.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.csproj.GenerateResource.cache
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.csproj.CopyComplete
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\HugoApp\obj\Debug\HugoApp.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\HugoApp.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\Npgsql.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Buffers.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Memory.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Text.Json.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\Npgsql.pdb
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\Npgsql.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Buffers.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Memory.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Text.Json.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.csprojAssemblyReference.cache
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.exe.config
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.frmAdmin.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.frmCambiarContra.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.frmInicioSesion.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.frmUsuario.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.Properties.Resources.resources
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.csproj.GenerateResource.cache
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.csproj.CopyComplete
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.exe
+C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp\obj\Debug\HugoApp.pdb

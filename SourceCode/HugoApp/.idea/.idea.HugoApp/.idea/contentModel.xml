@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nery Lopez\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nery Lopez\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HugoApp.1279097396.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nery Lopez\RYS2019\POO\PARCIAL 2\AELR_00136419_2EP\SourceCode\HugoApp" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Conexion.cs" t="Include" />
+      <e p="ConsultaNumPedidos.cs" t="Include" />
+      <e p="frmAdmin.cs" t="Include" />
+      <e p="frmAdmin.Designer.cs" t="Include" />
+      <e p="frmAdmin.resx" t="Include" />
+      <e p="frmCambiarContra.cs" t="Include" />
+      <e p="frmCambiarContra.Designer.cs" t="Include" />
+      <e p="frmCambiarContra.resx" t="Include" />
+      <e p="frmInicioSesion.cs" t="Include" />
+      <e p="frmInicioSesion.Designer.cs" t="Include" />
+      <e p="frmInicioSesion.resx" t="Include" />
+      <e p="frmUsuario.cs" t="Include" />
+      <e p="frmUsuario.Designer.cs" t="Include" />
+      <e p="frmUsuario.resx" t="Include" />
+      <e p="HugoApp.csproj" t="IncludeRecursive" />
+      <e p="HugoApp.sln" t="IncludeFlat" />
+      <e p="NumPedidos.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="ProductoDAO.cs" t="Include" />
+      <e p="Productos.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="fondo1.png" t="Include" />
+        <e p="Logo1.jpg" t="Include" />
+        <e p="LogoCorrtado1.png" t="Include" />
+        <e p="LogoCortado21.png" t="Include" />
+        <e p="LogoFINAL1.png" t="Include" />
+      </e>
+      <e p="Usuario.cs" t="Include" />
+      <e p="UsuarioDAO.cs" t="Include" />
+    </e>
+  </component>
+</project>
